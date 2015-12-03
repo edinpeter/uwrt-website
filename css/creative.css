@@ -25,7 +25,7 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+    color: #bb0000;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -36,7 +36,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #bb0000;
 }
 h1,
 h2,
@@ -110,7 +110,7 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #f05f40;
+    color: #bb0000;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -262,6 +262,11 @@ header .header-content .header-content-inner p {
 
 .section-heading {
     margin-top: 0;
+}
+.sponsor-heading {
+    padding-top: 30px;
+    font-size: 15px;
+    font-weight: 900;
 }
 
 .service-box {
@@ -421,9 +426,9 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-    border-color: #ed431f;
+    border-color: #bb0000;
     color: #fff;
-    background-color: #ee4b28;
+    background-color: #bb0000;
 }
 
 .btn-primary:active,
