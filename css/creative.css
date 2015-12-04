@@ -78,6 +78,14 @@ p {
     color: #fff;
     background-color: #222;
 }
+.padded-render{
+    padding-top: 0px;
+    padding-bottom: 10px;
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    max-height: 500px;
+}
 
 
 .text-faded {
@@ -267,6 +275,11 @@ header .header-content .header-content-inner p {
 .sponsor-heading {
     padding-top: 30px;
     font-size: 15px;
+    font-weight: 900;
+}
+.vehicle-heading {
+    padding-top: 30px;
+    font-size: 30px;
     font-weight: 900;
 }
 
