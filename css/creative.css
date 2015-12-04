@@ -262,6 +262,7 @@ header .header-content .header-content-inner p {
 
 .section-heading {
     margin-top: 0;
+    font-weight: 600;
 }
 .sponsor-heading {
     padding-top: 30px;
